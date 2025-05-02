@@ -1,2 +1,1 @@
-This repository contains solutions <br>
-Solved by Abdullah Haque
+This repository contains solutions
